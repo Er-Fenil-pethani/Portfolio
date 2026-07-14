@@ -258,10 +258,10 @@ export const EXPERIENCE: Experience[] = [
     id: 1,
     startDate: "2026",
     endDate: "Present",
-    title: "Backend Developer Intern",
-    company: "YOUR COMPANY NAME",
+    title: "Backend Developer",
+    company: "EquitySoft Technologies Pvt. Ltd.",
     description: [
-      "Working as a Backend Developer Intern.",
+      "Working as a Backend Developer.",
       "Building scalable backend services and REST APIs.",
       "Collaborating on real-world software projects.",
     ],

@@ -7,7 +7,7 @@ import { Download, ArrowLeft } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import ResumeDoodle from "./resume-doodle";
 
-const RESUME_PATH = "/Naresh_Khatri_Resume.pdf";
+const RESUME_PATH = "/Resume.pdf";
 
 export default function ResumeView() {
   return (

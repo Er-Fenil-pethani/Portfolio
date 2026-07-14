@@ -319,7 +319,7 @@ const projects: Project[] = [
       ],
     },
     live: "https://www.codingducks.xyz/",
-    github: "https://github.com/Naresh-Khatri/Coding-Ducks",
+    github: "https://github.com/Er-Fenil-pethani",
     get content() {
       return (
         <div>
@@ -689,7 +689,7 @@ const projects: Project[] = [
       ],
     },
     live: "https://kanbi.nareshkhatri.site",
-    github: "https://github.com/naresh-Khatri/kanbi",
+    github: "https://github.com/Er-Fenil-pethani",
     get content() {
       return (
         <div>
@@ -779,7 +779,7 @@ const projects: Project[] = [
     src: "/assets/projects-screenshots/portfolio/landing.png",
     screenshots: ["1.png"],
     live: "http://nareshkhatri.vercel.app",
-    github:"https://github.com/Naresh-Khatri/Portfolio",
+    github:"https://github.com/Er-Fenil-pethani",
     skills: {
       frontend: [
         PROJECT_SKILLS.ts,

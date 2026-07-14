@@ -27,17 +27,14 @@ const config = {
   site: "https://your-domain.vercel.app",
 
   githubUsername: "Er-Fenil-pethani",
-  githubRepo: "3d-portfolio",
+  githubRepo: "Portfolio",
 
   get ogImg() {
     return this.site + "/assets/seo/og-image.png";
   },
 
   social: {
-    twitter: "",
     linkedin: "YOUR_LINKEDIN_URL",
-    instagram: "",
-    facebook: "",
     github: "YOUR_GITHUB_URL",
   },
 };
